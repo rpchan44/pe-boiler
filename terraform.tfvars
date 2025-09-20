@@ -1,0 +1,6 @@
+region           = "ap-singapore-1"
+compartment_ocid = "ocid1.compartment.oc1..aaaaexample"
+project_name     = "my-os-private-endpoint"
+pe_name          = "pe1"
+pe_prefix        = "pe1"
+os_namespace     = "mytenancynamespace"
